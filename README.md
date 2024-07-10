@@ -12,6 +12,20 @@ First, clone the project locally:
 git clone https://github.com/KevenDuan/JY901Gyroscope.git
 ```
 
+Then open the project:
+
+```
+cd JY901Gyroscope
+```
+
+Run the example code:
+
+```
+python example.py
+```
+
+You can later change the code in the project according to your needs.
+
 ## File description
 
 - Gyroscope.py: Encapsulated library for gyroscopes.
