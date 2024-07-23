@@ -39,7 +39,7 @@ The default baud rate for JY901 is 9600.
 
 `gyroscope.display`: Displays gyroscope nine-axis data.
 
-**To be updated...**
+[树莓派4B-用串口读取JY901S陀螺仪数据 - KevenDuan (cnblogs.com)](https://www.cnblogs.com/kevenduan/p/18292231)
 
 
 
